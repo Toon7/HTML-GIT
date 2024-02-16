@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>De 4 Seizoenen</title>
+</head>
+
+<body>
+
+    <section>
+        <h1>Lente</h1>
+            <p>Wat is de warmste lente maand?</p>
+    </section>
+
+    <section>
+        <h2>Zomer</h2>
+            <p>De warmterecords van de afgelopen jaren?</p>
+                <ul>
+                    <li>2019</li>
+                </ul>
+    </section>
+
+    <section>
+        <h3>Herfst</h3>
+    </section>
+
+    <section>
+        <h4>Winter</h4>
+    </section>
+
+<p></p>
+
+</body>
+
+</html>
